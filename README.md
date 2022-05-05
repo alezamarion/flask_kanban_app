@@ -7,7 +7,7 @@ You can see app in action here:
 
 https://www.youtube.com/watch?v=Jkslf_mQCfA
 
-### Install 
+### Install:
 ```
 git clone https://github.com/alezamarion/flask_kanban_app.git && cd flask_kanban_app
 pip install -r requirements.txt
