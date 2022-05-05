@@ -3,7 +3,7 @@
 
 This is an kanban app, developed with Flask
 
-You can see app working here:
+You can see app in action here:
 
 https://www.youtube.com/watch?v=Jkslf_mQCfA
 
